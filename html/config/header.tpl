@@ -39,12 +39,12 @@
                                     <li>
                                         <a id="menu_planing" class="limenu" href="#">Panning your Visit</a>
                                         <ul>
-                                            <li><a id="menu_patient" class="limenu" href="patient-process.html">HD Patient Process</a></li>
-                                            <li><a id="menu_stay" class="limenu" href="stay.html">During your Stay</a></li>
-                                            <li><a id="menu_faq" class="limenu" href="faq.html">FAQs</a></li>
+                                            <li><a id="menu_patient" class="limenu" href="patient-process">HD Patient Process</a></li>
+                                            <li><a id="menu_stay" class="limenu" href="stay">During your Stay</a></li>
+                                            <li><a id="menu_faq" class="limenu" href="faq">FAQs</a></li>
                                         </ul>
                                     </li>
-									<li><a id="menu_contact" class="contact limenu" href="contact.html">Contact</a></li>
+									<li><a id="menu_contact" class="contact limenu" href="contact">Contact</a></li>
 								</ul>
 							</div>
 						</div>
