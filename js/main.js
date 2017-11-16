@@ -173,6 +173,9 @@ beginCountdown('countdownElement', eventStart);
         case "choose" : case "installations" : case "doctors" : case "doctor" :
         jQuery("#menu_aboutus").addClass("active");
         break;
+        case "service" :
+        jQuery("#menu_service").addClass("active");
+        break;
         default :
         jQuery("#menu_home").addClass("active");
         break;
