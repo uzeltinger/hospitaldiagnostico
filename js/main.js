@@ -176,6 +176,9 @@ beginCountdown('countdownElement', eventStart);
         case "service" :
         jQuery("#menu_service").addClass("active");
         break;
+        case "patient-process" : case "stay" : case "faq" :
+        jQuery("#menu_planing").addClass("active");
+        break;  
         default :
         jQuery("#menu_home").addClass("active");
         break;
