@@ -168,6 +168,7 @@ beginCountdown('countdownElement', eventStart);
     jQuery(window).load(function (){
       var url = window.location.href;            
       var page = url.split("/")[3];
+      if(page.indexOf("doctor") > -1){page = "doctor";}
       switch(page){
         case "choose" : case "installations" : case "doctors" : case "doctor" :
         jQuery("#menu_aboutus").addClass("active");
