@@ -1,0 +1,208 @@
+/* Large desktop */
+@media (min-width: 1200px) {
+.service-area-slider-block {
+  margin: -60px 100px 60px;
+}
+.home-slider .owl-controls {
+  right: 200px;
+}
+.medical-area .single-product .info {
+  min-height: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-top {
+  display: none;
+}
+.logo img {
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.mainmenu ul {
+  text-align: center;
+}
+.service-area-slider-block {
+  margin: -75px 0 40px;
+  padding: 35px 30px 0;
+}
+.home-slider .owl-controls {
+  right: 100px;
+}
+.medical-area .single-product .info {
+  min-height: auto;
+}
+.block-area {
+  text-align: center;
+}
+.footer-area {
+  text-align: center;
+}
+.contact-text {
+  text-align: center;
+}
+.contact-text .social-icon {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.maps {
+  margin-bottom: 30px;
+}
+.doctor-info img {
+  margin: 0 auto;
+}
+.doctor-info {
+  text-align: center;
+}
+.doctor-name h2, .doctor-name h3 {
+  color: #103a71;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+.responsive-menu-warp {
+  display: block;
+  margin: 0 -15px -2px;
+}
+.mainmenu {
+  display: none;
+}
+.header-top {
+  display: none;
+}
+.logo img {
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.header-area {
+  padding: 10px 0 0;
+}
+.home-slider .owl-controls {
+  right: 40px;
+}
+.service-area-slider-block {
+  margin: -75px 0 40px;
+  padding: 35px 30px 0;
+}
+.home-slider .owl-controls {
+  right: 100px;
+}
+.medical-area .single-product .info {
+  min-height: auto;
+}
+.block-area {
+  text-align: center;
+}
+.footer-area {
+  text-align: center;
+}
+.footer-bottom-text p {
+  margin: 10px 0 20px;
+  text-align: center;
+}
+.choose-img img {
+  margin: 0 auto;
+}
+.choose-area {
+  text-align: center;
+}
+.choose-area .text-right {
+  text-align: center;
+}
+.doctor-info img {
+  margin: 0 auto;
+}
+.doctor-info {
+  text-align: center;
+}
+.doctor-name h2, .doctor-name h3 {
+  color: #103a71;
+  text-align: center;
+}
+.bread-icon {
+  width: 140px;
+}
+.singel-bread-icon {
+  height: 80px;
+  width: 80px;
+}
+.content-area .faq p {
+  padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+.responsive-menu-warp {
+  display: block;
+  margin: 0 -15px -1px;
+}
+.mainmenu {
+  display: none;
+}
+.home-slider .owl-controls {
+  right: 20px;
+}
+.title h2, .block-area .title h2 {
+  font-size: 30px;
+}
+.singel-slide p {
+  font-size: 15px;
+}
+.singel-slide h2 {
+  font-size: 30px;
+}
+.bread-icon {
+  display: block;
+  margin: 0 auto 30px;
+  text-align: center;
+  width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
